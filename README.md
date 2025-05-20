@@ -1,0 +1,1 @@
+SkillHub is a Spring Boot-based social learning platform that enables users to share skills, connect with peers, post stories, join study groups, and manage their profiles. The application utilizes MongoDB for data storage and incorporates features such as JWT authentication, OAuth login, image uploads, friend requests, and real-time notifications.
